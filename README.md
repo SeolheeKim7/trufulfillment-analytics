@@ -26,6 +26,8 @@ The dataset includes daily page performance metrics for the month of April 2025.
 - **Contact Page**:
   - Highest form submissions (428) despite lower traffic volume, implying that visitors ready to convert actively seek this page.
 
+![Insights Summary](./website_traffic_insights.png)
+
 ## 5. Recommendations
 - **Enhance Call-to-Action (CTA) on the Homepage** to guide users toward deeper engagement (e.g., clear buttons, highlighted services).
 - **Highlight Services section more prominently on the Homepage** to capture user interest earlier in the browsing journey.
